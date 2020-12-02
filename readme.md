@@ -17,7 +17,12 @@ $ brew install cmake
 ## Run project
 ### Скачиваем репозиторий
 ```sh
-git clone https://github.com/designervoid/ai.git
+$ git clone https://github.com/designervoid/ai.git
+```
+
+### Перемещаемся в репозиторий
+```sh
+$ cd ai
 ```
 
 ### Установка виртуального окружения
