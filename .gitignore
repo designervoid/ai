@@ -1,2 +1,5 @@
 # virtual env
 env
+
+# macOS Stuff
+.DS_Store
